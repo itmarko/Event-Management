@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Event-Management/static/css/main.2d008cc6.css",
+    "main.js": "/Event-Management/static/js/main.f716aaa1.js",
+    "static/js/787.068bd901.chunk.js": "/Event-Management/static/js/787.068bd901.chunk.js",
+    "index.html": "/Event-Management/index.html",
+    "main.2d008cc6.css.map": "/Event-Management/static/css/main.2d008cc6.css.map",
+    "main.f716aaa1.js.map": "/Event-Management/static/js/main.f716aaa1.js.map",
+    "787.068bd901.chunk.js.map": "/Event-Management/static/js/787.068bd901.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d008cc6.css",
+    "static/js/main.f716aaa1.js"
+  ]
+}
