@@ -2,18 +2,7 @@ import React from "react";
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from "./page/Home";
 
-
-
-
-
-
-
-
-
-
-
-
-import './assets/scss/styles.scss'
+import './assets/scss/styles.scss';
 const App = () => {
   return (
     <BrowserRouter>

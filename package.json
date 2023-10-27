@@ -1,6 +1,6 @@
 {
-  "name": "eventmanagement",
   "homepage": "https://itmarko.github.io/Event-Management",
+  "name": "eventmanagement",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
